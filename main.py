@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Токен бота (получите у @BotFather)
 
-BOT_TOKEN = “8265769208:AAH3R9aTPOwMWV5ir5SjIRQMNPzTbaYI18k”
+BOT_TOKEN = "8265769208:AAH3R9aTPOwMWV5ir5SjIRQMNPzTbaYI18k"
 
 # API ключи (получите на соответствующих сервисах)
 
