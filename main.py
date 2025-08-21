@@ -15,12 +15,12 @@ logging.basicConfig(level=logging.INFO)
 
 # Токен бота (получите у @BotFather)
 
-BOT_TOKEN = “YOUR_BOT_TOKEN_HERE”
+BOT_TOKEN = “8265769208:AAH3R9aTPOwMWV5ir5SjIRQMNPzTbaYI18k”
 
 # API ключи (получите на соответствующих сервисах)
 
-WEATHER_API_KEY = “YOUR_OPENWEATHER_API_KEY”
-NEWS_API_KEY = “YOUR_NEWS_API_KEY”
+WEATHER_API_KEY = “https://wttr.in/{kanibadam}?format=j1”
+NEWS_API_KEY = “https://www.reddit.com/r/worldnews.json”
 
 # Инициализация бота и диспетчера
 
